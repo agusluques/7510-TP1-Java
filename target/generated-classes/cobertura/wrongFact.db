@@ -6,7 +6,7 @@ varon(alejandro).
 mujer(maria).
 mujer(cecilia).
 padre(juan, pepe).
-padre(juan, pepa).
+padre(juan, pepa)
 padre(hector, maria).
 padre(roberto, alejandro).
 padre(roberto, cecilia).
